@@ -51,7 +51,7 @@ const mainBody = {
 const about = {
   show: true,
   heading: "About Me",
-  imageLink: require("../editable-stuff/RuyuanWan.png"),
+  imageLink: require("../editable-stuff/RuyuanWan.PNG"),
   imageSize: 375,
   message:
     "My name is RuyuanWan. I’m a data science & linguistics master student at the University of Minnesota. I'm most passionate about giving back to the community, and my goal is to pursue this passion within the field of data science and specifically NLP. In my free time I like working on open source projects.",
