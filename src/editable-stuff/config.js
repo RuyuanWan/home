@@ -17,7 +17,7 @@ const mainBody = {
     },
     {
       image: "fa-facebook",
-      url: "https://www.facebook.com/hashirshoaeb",
+      url: "https://www.facebook.com/RuyuanWan",
     },
     {
       image: "fa-instagram",
@@ -66,7 +66,7 @@ const about = {
 const repos = {
   show: true,
   heading: "Recent Projects",
-  gitHubUsername: "hashirshoaeb", //i.e."johnDoe12Gh"
+  gitHubUsername: "RuyuanWan", //i.e."johnDoe12Gh"
   reposLength: 4,
   specificRepos: [],
 };
